@@ -1,0 +1,6 @@
+CONSIGNES
+=====================================
+On créé un objet nommé salaires qui contient les salaires de chaque employé : Pierre (2100€), Paul(1350€) et Jacques(2320€)
+Via une boucle, on calcule le total des salaires de nos employés, que l'on stocke dans une variable nommée total
+On calcule ensuite la moyenne salariale de nos trois collègues, que l'on stocke dans une variable nommée moyenne
+On console log le montant total puis la moyenne salariale

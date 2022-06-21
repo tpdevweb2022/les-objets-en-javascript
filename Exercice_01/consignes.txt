@@ -1,0 +1,8 @@
+CONSIGNES
+=====================================
+Créer un objet vide nommé voiture
+Ajoutez la propriété model avec la valeur Countach.
+Ajoutez la propriété marque avec la valeur Lamborghini.
+Changer la valeur de model pour Aventador.
+Supprimez la propriété marque de l’objet.
+Afficher un console log après chaque étape

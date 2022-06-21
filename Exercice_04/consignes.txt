@@ -1,0 +1,23 @@
+CONSIGNES
+=====================================
+Prenant en considération l'objet suivant :
+
+let objet = {
+    nom: "Jean",
+    prenom: "Dupont",
+    age: 25,
+    ville: "Paris",
+    pays: "France",
+    adresse: "2 rue de la paix",
+    email: "jean.dupont@mail.com",
+    taille: 1.75,
+    poids: 70,
+    genre: "homme",
+    profession: "berger",
+    hobbies: ["sport", "lecture", "cinema"],
+    amis: ["Jean", "Paul", "Jacques"],
+};
+
+=====================================
+
+Faites en sorte de ne garder au sein d'un nouvel objet nommé integers que les chiffres de l'objet objet, multipliés par 2.

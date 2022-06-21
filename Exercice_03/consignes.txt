@@ -1,0 +1,20 @@
+CONSIGNES
+=====================================
+Cette fois ci nous allons créer un objet nommé student
+Il aura pour clé valeur les indications suivantes
+- age : 13
+- firstName : "John"
+- lastName : "Doe"
+- email : "doe@example.com"
+
+=====================================
+
+Nous allons y ajouter une clé "notes" qui contiendra un tableau contenant des notes
+- Français : 12
+- Mathématiques : 14
+- Histoire : 10
+- Sciences : 15
+
+=====================================
+
+Effectuez la moyenne générale de notre ami John Doe
